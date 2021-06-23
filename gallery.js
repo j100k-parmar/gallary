@@ -48,5 +48,5 @@ function previous() {
 }
 
 function popupwindow() {
-    document.querySelector('#popup').classList.remove('display');
+    document.querySelector('#gallery').classList.remove('display');
 }
